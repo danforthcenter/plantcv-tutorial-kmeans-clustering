@@ -1,1 +1,4 @@
 pip install git+https://github.com/danforthcenter/plantcv-annotate.git
+pip uninstall opencv-python
+pip install opencv-python-headless
+
